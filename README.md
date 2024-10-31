@@ -1,6 +1,4 @@
-# **Flipkart Grid 5.0**
-
-## **Problem Statement Title:** Conversational Fashion Outfit Generator powered by GenAI
+# **Mercari hackathon**
 
 ## Tech Stack
 
@@ -10,7 +8,7 @@
 4. Backend: Python FastAPI
 5. Frontend: ReactJS
 
-## **Team Name:** Tech Titans
+## **Team Name:** F
 
 ### Problem statement
 
@@ -118,17 +116,14 @@ searched again.
 
 ![Alt text](./AssetsREADME/Diagram2.png)
 
-# Screenshorts:
+# Screenshots:
 
-User giving the first prompt for generating an ethnic outfit for "karwa chuth" occation.
+User giving the first prompt for generating an outfit for a woman.
 ![First Screenshort](./AssetsREADME/image.png)
 
-User asking to change the leggings to salwar and color of jhumka
+User asking to change the top to a different color.
 
 ![Second Screenshort](./AssetsREADME/image-1.png)
-
-Changing the topwear outfit to Lehenga Choli
-![Alt text](./AssetsREADME/image-2.png)
 
 ## **Glossary**
 
@@ -240,16 +235,3 @@ The three type of insights generated in the previous step are combined to genera
 - **Global Expansion:** Collaborating with fashion influencers, designers, and brands from around the world can help tailor the outfit generator's recommendations to diverse cultural and regional tastes.
 
 - **Continuous Learning:** Building models that learn and adapt from user feedback and preferences over time can create a more personalized and accurate outfit recommendation experience.
-
-# Team:
-
-Ayush Yadav, Linkedin: https://www.linkedin.com/in/ayushunleashed/
-
-Yashraj Shukla, Linkedin: https://www.linkedin.com/in/whynesspower/
-
-Gobind Singh Maan, Linkedin: https://www.linkedin.com/in/gobind-singh-maan-2548a5157/
-s
-
-### More details can be found in the following PPT
-
-https://docs.google.com/presentation/d/1BHmrGtab_Y8XDefpcobe4AwMa2MTJsMN/edit?usp=sharing&ouid=114849607912117448817&rtpof=true&sd=true
